@@ -1,6 +1,6 @@
 ### O GRUPO SOMA
 
-![Logotipo SOMA Soluções em T.I.](https://somasolucoes.com/wp-content/uploads/2021/10/logo-soma.svg)
+![Logotipo SOMA Soluções em T.I.](https://soma-solucoes.s3.amazonaws.com/logotipos/soma-solucoes.png)
 
 Soluções corporativas em tecnologia da informação.
 
